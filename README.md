@@ -2,13 +2,11 @@
 
 [![yande stats](https://github-readme-stats.vercel.app/api?username=yandemc)](https://github.com/yandemc/)
 
+#
 
- am do scratch
- doesnt use grammer
- i beraly speak english 
+## languages:
+Javascript 
 
- my main language is no
- dum
- very wierd
- scratch addons person kinda
- 
+Scratch
+
+Python (I dont use it tho)
