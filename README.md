@@ -2,11 +2,4 @@
 
 [![yande stats](https://github-readme-stats.vercel.app/api?username=theyande)](https://github.com/theyande/)
 
-#
-
-## languages:
-Javascript 
-
-Scratch
-
-Python (I dont use it tho)
+[![yande stats](https://raw.githubusercontent.com/TheYande/TheYande/main/github-metrics.svg)](https://github.com/theyande/)
