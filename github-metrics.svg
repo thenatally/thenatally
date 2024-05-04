@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2189" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2823" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal{justify-content:space-around}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.repository{width:100%;margin:6px 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.b .value{background-color:#9e91ff26}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.s .value{background-color:#eb355e26}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement.secret .value{background-color:#ff79d126}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value{margin-left:46px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal{justify-content:space-around}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.post{align-items:flex-start}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.b .value{background-color:#9e91ff26}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.s .value{background-color:#eb355e26}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement.secret .value{background-color:#ff79d126}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value{margin-left:46px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -33,16 +33,16 @@
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
@@ -171,13 +171,13 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z"/>
                                     </svg>
-                                    66.9 MB used
+                                    67.6 MB used
                                 </div>
                                 <div class="field ">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    29.1k added, 1.14k removed
+                                    39.5k added, 1.23k removed
                                 </div>
                             </section>
                             <section>
@@ -275,7 +275,7 @@
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 33.4 characters per line of code written</li>
+                        <li>Has approximately 34.2 characters per line of code written</li>
                         <li>Mostly pushes code around 23:00</li>
                         <li>Mostly active on Saturday</li>
                     </ul>
@@ -346,8 +346,8 @@
                             11
                         </div>
                         <div class="entry">
-                            <span class="value">1</span>
-                            <div class="bar" style="height: 7.142857142857142px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value"></span>
+                            <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                             12
                         </div>
                         <div class="entry">
@@ -366,13 +366,13 @@
                             15
                         </div>
                         <div class="entry">
-                            <span class="value">4</span>
-                            <div class="bar" style="height: 28.57142857142857px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <span class="value">5</span>
+                            <div class="bar" style="height: 35.714285714285715px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                             16
                         </div>
                         <div class="entry">
-                            <span class="value">3</span>
-                            <div class="bar" style="height: 21.428571428571427px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <span class="value">4</span>
+                            <div class="bar" style="height: 28.57142857142857px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                             17
                         </div>
                         <div class="entry">
@@ -391,8 +391,8 @@
                             20
                         </div>
                         <div class="entry">
-                            <span class="value">4</span>
-                            <div class="bar" style="height: 28.57142857142857px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <span class="value">3</span>
+                            <div class="bar" style="height: 21.428571428571427px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             21
                         </div>
                         <div class="entry">
@@ -432,13 +432,13 @@
                                 Wed
                             </div>
                             <div class="entry">
-                                <span class="value">6</span>
-                                <div class="bar" style="height: 23.076923076923077px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">5</span>
+                                <div class="bar" style="height: 19.230769230769234px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 Thu
                             </div>
                             <div class="entry">
-                                <span class="value">8</span>
-                                <div class="bar" style="height: 30.76923076923077px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">9</span>
+                                <div class="bar" style="height: 34.61538461538461px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 Fri
                             </div>
                             <div class="entry">
@@ -625,6 +625,7 @@
                                     <rect class="day" x="0" y="34" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="49" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="64" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="79" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </g>
                         </svg>
@@ -640,6 +641,574 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 237 commits in
+                                        <span class="repo">TheYande/scradd</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">scrub3</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#af8cccb</div>
+                                        <div class="message">fix /* eslint-env browser */
+
+Signed-off-by: cobalt &lt;61329810+RedGuy12@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#702305b</div>
+                                        <div class="message">fix join dm false template literal
+
+Signed-off-by: cobalt &lt;61329810+RedGuy12@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#22e5778</div>
+                                        <div class="message">refactor types a tiny bit
+
+Signed-off-by: cobalt &lt;61329810+RedGuy12@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#aa06d77</div>
+                                        <div class="message">Add missing reasons
+
+Signed-off-by: cobalt &lt;61329810+RedGuy12@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cbf52a6</div>
+                                        <div class="message">roles stuff
+
+Signed-off-by: cobalt &lt;61329810+RedGuy12@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7112c25</div>
+                                        <div class="message">Lint code
+
+Signed-off-by: cobalt &lt;61329810+RedGuy12@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#180d106</div>
+                                        <div class="message">Bump dependencies (#607)
+
+Co-authored-by: github-actions[bot] &lt;41898282+github-actions[bot]@users.noreply.github.com&gt;
+Co-authored-by: RedGuy13 &lt;RedGuy13@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e535d1e</div>
+                                        <div class="message">build(deps-dev): bump prettier from 2.8.0 to 3.2.5 (#598)
+
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;
+Co-authored-by: cobalt &lt;61329810+RedGuy12@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#82d0694</div>
+                                        <div class="message">build(deps-dev): bump @typescript-eslint/parser from 7.3.1 to 7.4.0 (#605)
+
+Bumps
+[@typescript-eslint/parser](https://github.com/typescript-eslint/typescript-eslint/tree/HEAD/packages/parser)
+from 7.3.1 to 7.4.0.
+&lt;details&gt;
+&lt;summary&gt;Release notes&lt;/summary&gt;
+&lt;p&gt;&lt;em&gt;Sourced from &lt;a
+href="https://github.com/typescript-eslint/typescript-eslint/releases"&gt;&lt;code&gt;@​typescript-eslint/parser&lt;/code&gt;'s
+releases&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h2&gt;v7.4.0&lt;/h2&gt;
+&lt;h2&gt;7.4.0 (2024-03-25)&lt;/h2&gt;
+&lt;h3&gt;🚀 Features&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;eslint-plugin:&lt;/strong&gt; [consistent-type-imports] ignore
+files with decorators, experimentalDecorators, and emitDecoratorMetadata
+(&lt;a
+href="https://redirect.github.com/typescript-eslint/typescript-eslint/pull/8335"&gt;#8335&lt;/a&gt;)
+&lt;ul&gt;
+&lt;li&gt;Check out our blog post on this change for more information! &lt;a
+href="https://typescript-eslint.io/blog/changes-to-consistent-type-imports-with-decorators"&gt;https://typescript-eslint.io/blog/changes-to-consistent-type-imports-with-decorators&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;eslint-plugin:&lt;/strong&gt; [no-unnecessary-type-arguments]
+handle tagged templates (&lt;a
+href="https://redirect.github.com/typescript-eslint/typescript-eslint/pull/8708"&gt;#8708&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;eslint-plugin:&lt;/strong&gt; deprecate no-throw-literal and add a
+renamed only-throw-error (&lt;a
+href="https://redirect.github.com/typescript-eslint/typescript-eslint/pull/8701"&gt;#8701&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;🩹 Fixes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;eslint-plugin:&lt;/strong&gt; [prefer-optional-chain] address
+multipart nullish checks false positive (&lt;a
+href="https://redirect.github.com/typescript-eslint/typescript-eslint/pull/8678"&gt;#8678&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;eslint-plugin:&lt;/strong&gt; [prefer-optional-chain] properly
+disambiguate between &lt;code&gt;boolean&lt;/code&gt; and &lt;code&gt;false&lt;/code&gt; (&lt;a
+href="https://redirect.github.com/typescript-eslint/typescript-eslint/pull/8685"&gt;#8685&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;eslint-plugin:&lt;/strong&gt; [no-unnecessary-type-assertion]
+avoid remove const casting on template literals with expressions inside
+(&lt;a
+href="https://redirect.github.com/typescript-eslint/typescript-eslint/pull/8740"&gt;#8740&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;typescript-eslint:&lt;/strong&gt; declare peer dependency on
+&lt;code&gt;utils&lt;/code&gt; to ensure npm correctly installs dependencies (&lt;a
+href="https://redirect.github.com/typescript-eslint/typescript-eslint/pull/8738"&gt;#8738&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;website:&lt;/strong&gt; visual Editor is not scrolled (&lt;a
+href="https://redirect.github.com/typescript-eslint/typescript-eslint/pull/8709"&gt;#8709&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;website:&lt;/strong&gt; make 404 page good again (&lt;a
+href="https://redirect.github.com/typescript-eslint/typescript-eslint/pull/8750"&gt;#8750&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;❤️  Thank You&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Abraham Guo&lt;/li&gt;
+&lt;li&gt;Brad Zacher &lt;a
+href="https://github.com/bradzacher"&gt;&lt;code&gt;@​bradzacher&lt;/code&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Josh Goldberg ✨&lt;/li&gt;
+&lt;li&gt;Kim Sang Du &lt;a
+href="https://github.com/developer-bandi"&gt;&lt;code&gt;@​developer-bandi&lt;/code&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Kirk Waiblinger &lt;a
+href="https://github.com/kirkwaiblinger"&gt;&lt;code&gt;@​kirkwaiblinger&lt;/code&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Marco Pasqualetti &lt;a
+href="https://github.com/marcalexiei"&gt;&lt;code&gt;@​marcalexiei&lt;/code&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;YeonJuan &lt;a
+href="https://github.com/yeonjuan"&gt;&lt;code&gt;@​yeonjuan&lt;/code&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;You can read about our &lt;a
+href="https://main--typescript-eslint.netlify.app/users/versioning"&gt;versioning
+strategy&lt;/a&gt; and &lt;a
+href="https://main--typescript-eslint.netlify.app/users/releases"&gt;releases&lt;/a&gt;
+on our website.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;Changelog&lt;/summary&gt;
+&lt;p&gt;&lt;em&gt;Sourced from &lt;a
+href="https://github.com/typescript-eslint/typescript-eslint/blob/main/packages/parser/CHANGELOG.md"&gt;&lt;code&gt;@​typescript-eslint/parser&lt;/code&gt;'s
+changelog&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h2&gt;7.4.0 (2024-03-25)&lt;/h2&gt;
+&lt;h3&gt;🚀 Features&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;eslint-plugin:&lt;/strong&gt; [consistent-type-imports] ignore
+files with decorators, experimentalDecorators, and
+emitDecoratorMetadata&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;❤️  Thank You&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Abraham Guo&lt;/li&gt;
+&lt;li&gt;Brad Zacher&lt;/li&gt;
+&lt;li&gt;Josh Goldberg ✨&lt;/li&gt;
+&lt;li&gt;Kim Sang Du&lt;/li&gt;
+&lt;li&gt;Kirk Waiblinger&lt;/li&gt;
+&lt;li&gt;Marco Pasqualetti&lt;/li&gt;
+&lt;li&gt;YeonJuan&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;You can read about our &lt;a
+href="https://main--typescript-eslint.netlify.app/users/versioning"&gt;versioning
+strategy&lt;/a&gt; and &lt;a
+href="https://main--typescript-eslint.netlify.app/users/releases"&gt;releases&lt;/a&gt;
+on our website.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;Commits&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/typescript-eslint/typescript-eslint/commit/5d2469142262672e381db3b4a4e2bffa80984810"&gt;&lt;code&gt;5d24691&lt;/code&gt;&lt;/a&gt;
+chore(release): publish 7.4.0&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/typescript-eslint/typescript-eslint/commit/e408b93e48e5199d83a8d99d1e27126d2dd8bc8f"&gt;&lt;code&gt;e408b93&lt;/code&gt;&lt;/a&gt;
+feat(eslint-plugin): [consistent-type-imports] ignore files with
+decorators, ...&lt;/li&gt;
+&lt;li&gt;See full diff in &lt;a
+href="https://github.com/typescript-eslint/typescript-eslint/commits/v7.4.0/packages/parser"&gt;compare
+view&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;br /&gt;
+
+
+[![Dependabot compatibility
+score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=@typescript-eslint/parser&amp;package-manager=npm_and_yarn&amp;previous-version=7.3.1&amp;new-version=7.4.0)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)
+
+Dependabot will resolve any conflicts with this PR as long as you don't
+alter it yourself. You can also trigger a rebase manually by commenting
+`@dependabot rebase`.
+
+[//]: # (dependabot-automerge-start)
+[//]: # (dependabot-automerge-end)
+
+---
+
+&lt;details&gt;
+&lt;summary&gt;Dependabot commands and options&lt;/summary&gt;
+&lt;br /&gt;
+
+You can trigger Dependabot actions by commenting on this PR:
+- `@dependabot rebase` will rebase this PR
+- `@dependabot recreate` will recreate this PR, overwriting any edits
+that have been made to it
+- `@dependabot merge` will merge this PR after your CI passes on it
+- `@dependabot squash and merge` will squash and merge this PR after
+your CI passes on it
+- `@dependabot cancel merge` will cancel a previously requested merge
+and block automerging
+- `@dependabot reopen` will reopen this PR if it is closed
+- `@dependabot close` will close this PR and stop Dependabot recreating
+it. You can achieve the same result by closing it manually
+- `@dependabot show &lt;dependency name&gt; ignore conditions` will show all
+of the ignore conditions of the specified dependency
+- `@dependabot ignore this major version` will close this PR and stop
+Dependabot creating any more for this major version (unless you reopen
+the PR or upgrade to it yourself)
+- `@dependabot ignore this minor version` will close this PR and stop
+Dependabot creating any more for this minor version (unless you reopen
+the PR or upgrade to it yourself)
+- `@dependabot ignore this dependency` will close this PR and stop
+Dependabot creating any more for this dependency (unless you reopen the
+PR or upgrade to it yourself)
+
+
+&lt;/details&gt;
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9c7e155</div>
+                                        <div class="message">Bump dependencies (#604)
+
+&lt;details&gt;&lt;summary&gt;Changed dependencies&lt;/summary&gt;
+
+- Bumped
+[`electron-to-chromium@1.4.715`](https://npmjs.com/package/electron-to-chromium/v/1.4.715)
+to [`1.4.717`](https://npmjs.com/package/electron-to-chromium/v/1.4.717)
+([see recent commits](https://github.com/kilian/electron-to-chromium))
+&lt;/details&gt;&lt;details&gt;&lt;summary&gt;Requirement changes&lt;/summary&gt;
+
+*No requirements changed.*
+&lt;/details&gt;
+
+Co-authored-by: github-actions[bot] &lt;41898282+github-actions[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#747c666</div>
+                                        <div class="message">ah u gotta escape these</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#16a7f79</div>
+                                        <div class="message">Format</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#083dd1c</div>
+                                        <div class="message">Merge branch 'main' of https://github.com/scratchaddons-community/scradd</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7a12446</div>
+                                        <div class="message">impr(logs): contextual image sizes
+
+Signed-off-by: cobalt &lt;61329810+RedGuy12@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b17a9be</div>
+                                        <div class="message">cdbl -&gt; prepareExit; prevent spam reminders going off on reboots
+
+Signed-off-by: cobalt &lt;61329810+RedGuy12@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#930b058</div>
+                                        <div class="message">fix: handle new OPTIONS request discord sends, idk might be part of the embedded app sdk update
+
+Signed-off-by: cobalt &lt;61329810+RedGuy12@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5e4b8e2</div>
+                                        <div class="message">a bunch of url processing stuff and finally STOP USING DISCORD AS AN IMAGE HOST YIPPEEEEE
+
+Signed-off-by: cobalt &lt;61329810+RedGuy12@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#195cdd7</div>
+                                        <div class="message">Format</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f73d09d</div>
+                                        <div class="message">i love coding on mobile</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f3ef584</div>
+                                        <div class="message">hey i already have a variable for this don't i</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 23 commits in
+                                        <span class="repo">TheYande/scradd</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">Scradd</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#b51a847</div>
+                                        <div class="message">build(deps): bump actions/checkout from 4.1.3 to 4.1.4 (#665)
+
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0104431</div>
+                                        <div class="message">build(deps): bump github/codeql-action from 3.25.1 to 3.25.2 (#664)
+
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e4ba82b</div>
+                                        <div class="message">build(deps): bump @fontsource-variable/sora from 5.0.17 to 5.0.18 (#660)
+
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#91594a0</div>
+                                        <div class="message">build(deps): bump actions/checkout from 4.1.2 to 4.1.3 (#661)
+
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f3c5a63</div>
+                                        <div class="message">Format</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#39ecf0f</div>
+                                        <div class="message">fix(forms): Add another small note to ban appeals</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0905b36</div>
+                                        <div class="message">Grammar Fix (#654)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ce9de44</div>
+                                        <div class="message">build(deps): bump github/codeql-action from 3.25.0 to 3.25.1 (#649)
+
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e141eff</div>
+                                        <div class="message">build(deps): bump peter-evans/create-pull-request from 6.0.3 to 6.0.4 (#650)
+
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#23e5b4e</div>
+                                        <div class="message">build(deps): bump @napi-rs/canvas from 0.1.51 to 0.1.52 (#652)
+
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#339a94b</div>
+                                        <div class="message">fix(logging): move assignable role logs again
+
+Signed-off-by: cobalt &lt;61329810+RedGuy12@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ecca013</div>
+                                        <div class="message">fix(bot): don't allow replying to system messages
+
+Signed-off-by: cobalt &lt;61329810+RedGuy12@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#70e5812</div>
+                                        <div class="message">fix(auto): handle replies to system msgs
+
+Signed-off-by: cobalt &lt;61329810+RedGuy12@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6804562</div>
+                                        <div class="message">fix(automod): minorly improve public warns + refactor code
+
+Signed-off-by: cobalt &lt;61329810+RedGuy12@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#10aad24</div>
+                                        <div class="message">fix(execute): use a list in `~ help`
+
+Signed-off-by: cobalt &lt;61329810+RedGuy12@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a31485e</div>
+                                        <div class="message">fix(bot): /say perm check
+
+Signed-off-by: cobalt &lt;61329810+RedGuy12@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#756c9d4</div>
+                                        <div class="message">fix(bot): /credits - don't put package version in code
+
+Signed-off-by: cobalt &lt;61329810+RedGuy12@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a810cde</div>
+                                        <div class="message">fix(autos): prevent Remove Scradd Chat Response from timing out
+
+Signed-off-by: cobalt &lt;61329810+RedGuy12@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#475bf4c</div>
+                                        <div class="message">fix(autos): extra &gt; in scratch project embeds
+
+Signed-off-by: cobalt &lt;61329810+RedGuy12@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1a6cd0f</div>
+                                        <div class="message">build(deps): bump github/codeql-action from 3.24.10 to 3.25.0 (#645)
+
+Bumps [github/codeql-action](https://github.com/github/codeql-action)
+from 3.24.10 to 3.25.0.
+&lt;details&gt;
+&lt;summary&gt;Changelog&lt;/summary&gt;
+&lt;p&gt;&lt;em&gt;Sourced from &lt;a
+href="https://github.com/github/codeql-action/blob/main/CHANGELOG.md"&gt;github/codeql-action's
+changelog&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h2&gt;3.25.0 - 15 Apr 2024&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;The deprecated feature for extracting dependencies for a Python
+analysis has been removed. &lt;a
+href="https://redirect.github.com/github/codeql-action/pull/2224"&gt;#2224&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;As a result, the following inputs and environment variables are now
+ignored:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The &lt;code&gt;setup-python-dependencies&lt;/code&gt; input to the
+&lt;code&gt;init&lt;/code&gt; Action&lt;/li&gt;
+&lt;li&gt;The
+&lt;code&gt;CODEQL_ACTION_DISABLE_PYTHON_DEPENDENCY_INSTALLATION&lt;/code&gt;
+environment variable&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;We recommend removing any references to these from your workflows.
+For more information, see the release notes for CodeQL Action v3.23.0
+and v2.23.0.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Automatically overwrite an existing database if found on the
+filesystem. &lt;a
+href="https://redirect.github.com/github/codeql-action/pull/2229"&gt;#2229&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Bump the minimum CodeQL bundle version to 2.12.6. &lt;a
+href="https://redirect.github.com/github/codeql-action/pull/2232"&gt;#2232&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;A more relevant log message and a diagnostic are now emitted when the
+&lt;code&gt;file&lt;/code&gt; program is not installed on a Linux runner, but is
+required for Go tracing to succeed. &lt;a
+href="https://redirect.github.com/github/codeql-action/pull/2234"&gt;#2234&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;Commits&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/github/codeql-action/commit/df5a14dc28094dc936e103b37d749c6628682b60"&gt;&lt;code&gt;df5a14d&lt;/code&gt;&lt;/a&gt;
+Merge pull request &lt;a
+href="https://redirect.github.com/github/codeql-action/issues/2238"&gt;#2238&lt;/a&gt;
+from github/update-v3.25.0-2b2cee522&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/github/codeql-action/commit/3f70eaa4d31bbf0600be93a0ae88db6c0aef186a"&gt;&lt;code&gt;3f70eaa&lt;/code&gt;&lt;/a&gt;
+Update changelog for v3.25.0&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/github/codeql-action/commit/2b2cee52294c410df28cc7ba0beaf429d5b4e82c"&gt;&lt;code&gt;2b2cee5&lt;/code&gt;&lt;/a&gt;
+Merge pull request &lt;a
+href="https://redirect.github.com/github/codeql-action/issues/2234"&gt;#2234&lt;/a&gt;
+from github/mbg/clearer-file-command-failure&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/github/codeql-action/commit/4fcf7a216ce13f13ffe9f395a802a3f22f8190e6"&gt;&lt;code&gt;4fcf7a2&lt;/code&gt;&lt;/a&gt;
+Add changelog entry&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/github/codeql-action/commit/d30d1cabb492838711c91e6280899193c0f779c7"&gt;&lt;code&gt;d30d1ca&lt;/code&gt;&lt;/a&gt;
+Merge pull request &lt;a
+href="https://redirect.github.com/github/codeql-action/issues/2237"&gt;#2237&lt;/a&gt;
+from github/henrymercer/more-configuration-errors&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/github/codeql-action/commit/55585360a353847d36f63bc5c29f1b7086340901"&gt;&lt;code&gt;5558536&lt;/code&gt;&lt;/a&gt;
+Add configuration error for unsupported build mode&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/github/codeql-action/commit/fa75c144b4edca3ccd9a781733939fad7515f12e"&gt;&lt;code&gt;fa75c14&lt;/code&gt;&lt;/a&gt;
+Capture rate limit and ref not existing config errors&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/github/codeql-action/commit/5a599c68cf43195b46783a38eafaca73404ea2e4"&gt;&lt;code&gt;5a599c6&lt;/code&gt;&lt;/a&gt;
+Merge pull request &lt;a
+href="https://redirect.github.com/github/codeql-action/issues/2236"&gt;#2236&lt;/a&gt;
+from github/henrymercer/feature-flags-with-tool-feat...&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/github/codeql-action/commit/829376a61898ee2e4be42297fc41c4adcc10bf00"&gt;&lt;code&gt;829376a&lt;/code&gt;&lt;/a&gt;
+Allow feature flags to specify tool feature requirements&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/github/codeql-action/commit/efc474680fa70a6df5c97b97233f665b4b7d6749"&gt;&lt;code&gt;efc4746&lt;/code&gt;&lt;/a&gt;
+Downgrade log levels for some messages to debug&lt;/li&gt;
+&lt;li&gt;Additional commits viewable in &lt;a
+href="https://github.com/github/codeql-action/compare/v3.24.10...v3.25.0"&gt;compare
+view&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;br /&gt;
+
+
+[![Dependabot compatibility
+score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=github/codeql-action&amp;package-manager=github_actions&amp;previous-version=3.24.10&amp;new-version=3.25.0)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)
+
+Dependabot will resolve any conflicts with this PR as long as you don't
+alter it yourself. You can also trigger a rebase manually by commenting
+`@dependabot rebase`.
+
+[//]: # (dependabot-automerge-start)
+[//]: # (dependabot-automerge-end)
+
+---
+
+&lt;details&gt;
+&lt;summary&gt;Dependabot commands and options&lt;/summary&gt;
+&lt;br /&gt;
+
+You can trigger Dependabot actions by commenting on this PR:
+- `@dependabot rebase` will rebase this PR
+- `@dependabot recreate` will recreate this PR, overwriting any edits
+that have been made to it
+- `@dependabot merge` will merge this PR after your CI passes on it
+- `@dependabot squash and merge` will squash and merge this PR after
+your CI passes on it
+- `@dependabot cancel merge` will cancel a previously requested merge
+and block automerging
+- `@dependabot reopen` will reopen this PR if it is closed
+- `@dependabot close` will close this PR and stop Dependabot recreating
+it. You can achieve the same result by closing it manually
+- `@dependabot show &lt;dependency name&gt; ignore conditions` will show all
+of the ignore conditions of the specified dependency
+- `@dependabot ignore this major version` will close this PR and stop
+Dependabot creating any more for this major version (unless you reopen
+the PR or upgrade to it yourself)
+- `@dependabot ignore this minor version` will close this PR and stop
+Dependabot creating any more for this minor version (unless you reopen
+the PR or upgrade to it yourself)
+- `@dependabot ignore this dependency` will close this PR and stop
+Dependabot creating any more for this dependency (unless you reopen the
+PR or upgrade to it yourself)
+
+
+&lt;/details&gt;
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -696,46 +1265,6 @@
                                     <div class="commit">
                                         <div class="sha">#aa7022c</div>
                                         <div class="message">Update main.yml</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">TheYande/TheYande</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#3463f84</div>
-                                        <div class="message">Update main.yml</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">TheYande/TheYande</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#b2c4f37</div>
-                                        <div class="message">Create main.yml</div>
                                     </div>
                                 </div>
                             </section>
@@ -858,7 +1387,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 2.26m out of 135m users</span>
+                                    <span class="gh">ranked 2.26m out of 136m users</span>
                                 </div>
                                 <div class="text">Published 24 public repositories</div>
                             </div>
@@ -873,7 +1402,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="51.40703517587939 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="53.743718592964825 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -895,7 +1424,7 @@
                                     <span class="prefix"></span>
                                     Deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 67 times</div>
+                                <div class="text">Repositories have been deployed 70 times</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -981,7 +1510,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="3.394934976043799 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="3.607118412046551 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -1054,7 +1583,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 2.60m out of 135m users</span>
+                                    <span class="gh">ranked 2.60m out of 136m users</span>
                                 </div>
                                 <div class="text">Followed by 5 users</div>
                             </div>
@@ -1365,7 +1894,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 2 May 2024, 21:02:06 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 May 2024, 20:59:06 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
