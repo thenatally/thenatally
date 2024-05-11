@@ -40,6 +40,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          base: repositories
           token: ${{ secrets.METRICS_TOKEN }}
           plugin_calendar: yes
           plugin_activity: yes
@@ -62,6 +63,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          base: repositories
           token: ${{ secrets.METRICS_TOKEN }}
           plugin_calendar: yes
           plugin_activity: yes
