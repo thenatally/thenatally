@@ -16,6 +16,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          base: repositories
           token: ${{ secrets.METRICS_TOKEN }}
           plugin_calendar: yes
           plugin_activity: yes
@@ -28,6 +29,7 @@ jobs:
           plugin_languages: yes
           config_timezone: America/New_York
           config_output: png
+          
 
   metrics-json:
     runs-on: ubuntu-latest
