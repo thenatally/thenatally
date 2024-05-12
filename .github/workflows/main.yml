@@ -78,5 +78,4 @@ jobs:
           plugin_lines_delay: 30
           plugin_languages: yes
           config_timezone: America/New_York
-          config_timezone: America/New_York
 
