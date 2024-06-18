@@ -24,9 +24,6 @@ jobs:
           plugin_habits: yes
           plugin_habits_facts: yes
           plugin_habits_charts: yes
-          filename: metrics.plugin.lines.svg
-          plugin_lines: yes
-          plugin_lines_delay: 30
           plugin_languages: yes
           config_timezone: America/New_York
           config_output: png
@@ -49,9 +46,6 @@ jobs:
           plugin_habits: yes
           plugin_habits_facts: yes
           plugin_habits_charts: yes
-          filename: metrics.plugin.lines.svg
-          plugin_lines: yes
-          plugin_lines_delay: 30
           plugin_languages: yes
           config_timezone: America/New_York
           config_output: json
@@ -73,9 +67,6 @@ jobs:
           plugin_habits: yes
           plugin_habits_facts: yes
           plugin_habits_charts: yes
-          filename: metrics.plugin.lines.svg
-          plugin_lines: yes
-          plugin_lines_delay: 30
           plugin_languages: yes
           config_timezone: America/New_York
 
