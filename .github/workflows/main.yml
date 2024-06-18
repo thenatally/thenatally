@@ -25,6 +25,7 @@ jobs:
           plugin_habits_facts: yes
           plugin_habits_charts: yes
           plugin_languages: yes
+          plugin_lines: yes
           config_timezone: America/New_York
           config_output: png
           
@@ -47,6 +48,7 @@ jobs:
           plugin_habits_facts: yes
           plugin_habits_charts: yes
           plugin_languages: yes
+          plugin_lines: yes
           config_timezone: America/New_York
           config_output: json
 
@@ -68,5 +70,6 @@ jobs:
           plugin_habits_facts: yes
           plugin_habits_charts: yes
           plugin_languages: yes
+          plugin_lines: yes
           config_timezone: America/New_York
 
