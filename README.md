@@ -1,4 +1,4 @@
-[![Discord Presence](https://lanyard.cnrad.dev/api/713805665407205426?showDisplayName=true&idleMessage=Not%20doin%20crap)](https://discord.com/users/713805665407205426)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1014588310036951120?showDisplayName=true&idleMessage=Not%20doin%20crap)](https://discord.com/users/1014588310036951120)
 
 [![yande stats](https://github-readme-stats.vercel.app/api?username=theyande)](https://github.com/theyande/)
 
